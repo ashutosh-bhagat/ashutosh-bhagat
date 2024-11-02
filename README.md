@@ -1,8 +1,7 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQET0pW6C4k_EQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726380257148?e=1735776000&v=beta&t=tNUBPa0NMVO-zSNTDYCO5JPwGOc8tqW1FZZI3spQxWE
-)
-<h1 align="left">Hey there, I'm Ashutosh Bhagat</h1>
-<h3 align="left">A passionate Web Devloper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
+<h1 align="left" style="border-bottom:none!important;">Hey, I'm Ashutosh Bhagat</h1>
+<h3 align="left">A passionate Web Devloper and a Tech Enthusiast from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-bhagat" /> </p>
 
@@ -31,9 +30,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-bhagat&show_icons=true&locale=en&layout=compact" alt="ashutosh-bhagat" /></p>
+<table border=0 width=1000>
+  <tr>
+    <td colspan=2 align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-bhagat&show_icons=true&locale=en" alt="ashutosh-bhagat" /></p></td>
+  </tr>
+    <tr>
+        <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-bhagat&" alt="ashutosh-bhagat" /></p></td>
+        <td><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-bhagat&show_icons=true&locale=en&layout=compact" alt="ashutosh-bhagat" /></p></td>
+    </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-bhagat&show_icons=true&locale=en" alt="ashutosh-bhagat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-bhagat&" alt="ashutosh-bhagat" /></p>
