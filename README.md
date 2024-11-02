@@ -1,11 +1,10 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
-<h1 align="left" style="border-bottom:none!important;">Hey, I'm Ashutosh Bhagat</h1>
+<h1 align="left">Hey, I'm Ashutosh Bhagat</h1>
 <h3 align="left">A passionate Web Devloper and a Tech Enthusiast from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-bhagat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-bhagat" alt="ashutosh-bhagat" /></a> </p>
+ 
 
 <p align="left"> <a href="https://twitter.com/ashutosh_x25" target="blank"><img src="https://img.shields.io/twitter/follow/ashutosh_x25?logo=twitter&style=for-the-badge" alt="ashutosh_x25" /></a> </p>
 
@@ -17,8 +16,9 @@
 
 - 📫 How to reach me **asbh7190@gmail.com**
 
-- ⚡ Fun fact **I love diving into new projects and exploring fresh ideas—I'm all about that curiosity-driven life! But here's the twist: I bring a lot of heart to the table, so you could say my creativity comes with a side of emotions!**
-
+- ⚡ Fun fact **I love diving into new projects and exploring fresh ideas—I'm all about that curiosity-driven life! But here's the twist: I bring a lot of heart to the table, so you could say my creativity comes with a side of emotions!**'
+</br>
+ <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-bhagat&theme=onedark" alt="ashutosh-bhagat" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashutosh_x25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh_x25" height="30" width="40" /></a>
@@ -34,11 +34,11 @@
 
 <table border=0 width=1000>
   <tr>
-    <td colspan=2 align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-bhagat&show_icons=true&locale=en" alt="ashutosh-bhagat" /></p></td>
+    <td colspan=2 align="center"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-bhagat&show_icons=true&locale=en&layout=compact" alt="ashutosh-bhagat" /></td>
   </tr>
     <tr>
+      <td><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-bhagat&show_icons=true&locale=en" alt="ashutosh-bhagat" /></p></td>
         <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-bhagat&" alt="ashutosh-bhagat" /></p></td>
-        <td><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-bhagat&show_icons=true&locale=en&layout=compact" alt="ashutosh-bhagat" /></p></td>
     </tr>
 </table>
 
