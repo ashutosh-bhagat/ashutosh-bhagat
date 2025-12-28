@@ -21,9 +21,6 @@
 
 <br/>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-bhagat&theme=onedark" alt="ashutosh-bhagat" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
