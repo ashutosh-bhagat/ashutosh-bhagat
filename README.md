@@ -19,7 +19,6 @@
 - 📫 Reach out: **asbh7190@gmail.com**
 - ⚡ Fun fact: *I mix logic with emotions—analyzing data by day, designing dreams by night!* ✨
 
-<br/>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -44,14 +43,3 @@
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 </p>
 
-<br/>
-
-<table border=0 width=1000>
-  <tr>
-    <td colspan=2 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-bhagat&show_icons=true&locale=en&layout=compact" alt="ashutosh-bhagat" /></td>
-  </tr>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-bhagat&show_icons=true&locale=en" alt="ashutosh-bhagat" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-bhagat&" alt="ashutosh-bhagat" /></td>
-  </tr>
-</table>
